@@ -1,0 +1,17 @@
+.list-group-item{
+    cursor: pointer;
+
+}
+.material-icons{
+    float: right;
+}
+
+.incorrecto{
+    color: #da2d2d;
+    font-size: 18px;
+}
+
+.correcto{
+    color: #17a2b8;
+    font-size: 18px;
+}
